@@ -33,4 +33,6 @@ id → aplica estilo específico.
 br → cria espaçamento entre os elementos.
 
 
-# Objetivo da página: Criar um site de atrativos turísticos da cidade de São Bernardo do Campo usando: HTML estrutural, CSS externo, o Css W3, imagens e organização em colunas.
+# Objetivo da página: 
+
+Criar um site de atrativos turísticos da cidade de São Bernardo do Campo usando: HTML estrutural, CSS externo, o Css W3, imagens e organização em colunas.
