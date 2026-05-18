@@ -1,0 +1,94 @@
+
+.principal {
+    /* Estilo para a classe principal */
+    width: 100%;
+    /* largura*/
+    display: flex;
+    /* indicando que é um container flexível */
+    flex-direction: row;
+    /* Organização em linha */
+    gap: 15px;
+    /* espaço entre as colunas */
+    align-items: stretch;
+    /* deixa todas com a mesma altura */
+}
+
+/* TODAS as colunas com o mesmo tamanho */
+.coluna1,
+.coluna2,
+.coluna3 {
+    flex: 1;
+    /* divide igualmente a largura */
+    padding: 10px;
+    /*Espaçamento interno */
+    box-sizing: border-box;
+    /*Inclui padding e border no cálculo da largura */
+    align-items: center;
+    /*alinha ao centro*/
+    margin: 1.5%;
+    /*espaçamento externo*/
+    flex-grow: 1;
+    /* permite que as colunas cresçam igualmente para preencher o espaço disponível */
+}
+
+
+/* dando uma cor de fundo com transparência para as colunas só pra destacar um pouco*/
+.coluna1 {
+    background-color: #a55621af;
+}
+
+.coluna2 {
+    background-color: #a55621af;
+}
+
+.coluna3 {
+    background-color: #a55621af;
+}
+
+body{
+    background-color: #e7dec4e7;/* cor de fundo para o corpo todo*/
+}
+
+.titulo{
+    background-color: rgb(102, 38, 13);/*cor de fundo para o titulo*/
+}
+
+figure,
+figcaption {
+    margin: 10px 0; /* espaçamento entre as imagens e legendas */
+    color: #642917; /* cor das legendas */
+    text-align: center; /* centraliza as legendas */
+}
+
+p {
+    font-size: 1.5em; /* aumenta o tamanho da fonte */
+    text-align: center; /* centraliza o texto */
+    color: white; /* cor do texto */
+    background-color: #8b4f2cd5; /* cor de fundo com transparência */
+
+}
+
+
+/* Estilo para a classe fundo */
+.fundo {
+    background-color: #b174439d;/* cor de fundo */
+}
+
+#TITULO {
+    color: #582609; /* cor do texto */
+}
+
+img{
+    width: 100%;
+    /* largura da imagem */
+    height: auto;
+    /* altura automática para manter a proporção */
+    background-color: #8b4f2c77; /* cor de fundo com transparência */
+}
+
+.fonte{
+    color: #301108;/* cor do texto */
+    font-size: 0.9em; /* tamanho da fonte */
+    margin-left: 70px;/* margem esquerda */
+    margin-right: 70px;/* margem direita */
+}
