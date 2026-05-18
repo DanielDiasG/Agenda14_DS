@@ -4,7 +4,9 @@ Esse HTML cria uma página chamada “Atrativos Turísticos”, organizada em tr
 
 
 
-# Estrutura principal da página: O conteúdo fica dentro de uma div class="principal", dividida em 3 colunas:
+# Estrutura principal da página:
+
+O conteúdo fica dentro de uma div class="principal", dividida em 3 colunas:
 
 Shoppings mostra: São Bernardo Plaza, Golden Square e Metrópole, cada item contém: título, imagem, legenda (figcaption) e fonte.
 
