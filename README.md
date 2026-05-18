@@ -12,6 +12,12 @@ Shoppings mostra: São Bernardo Plaza, Golden Square e Metrópole, cada item con
 Parques de Lazer mostra: cidade da criança, parque da juventude e parque das bicicletas, cada item contém: imagens, legendas(figcaption) e fonte.
 
 
-#Recursos usados no HTML: figure → agrupa imagem + legenda. img → exibe imagens. figcaption → legenda das imagens. class → aplica estilos reutilizáveis. id → aplica estilo específico. br → cria espaçamento entre os elementos.
+#Recursos usados no HTML: 
+figure → agrupa imagem + legenda. 
+img → exibe imagens.
+figcaption → legenda das imagens.
+class → aplica estilos reutilizáveis.
+id → aplica estilo específico. 
+br → cria espaçamento entre os elementos.
 
 #Objetivo da página: Criar um site de atrativos turísticos da cidade de São Bernardo do Campo usando: HTML estrutural, CSS externo, o Css W3, imagens e organização em colunas.
