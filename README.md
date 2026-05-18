@@ -4,7 +4,7 @@ Esse HTML cria uma página chamada “Atrativos Turísticos”, organizada em tr
 
 
 
-#Estrutura principal da página: O conteúdo fica dentro de uma div class="principal", dividida em 3 colunas:
+# Estrutura principal da página: O conteúdo fica dentro de uma div class="principal", dividida em 3 colunas:
 
 Shoppings mostra: São Bernardo Plaza, Golden Square e Metrópole, cada item contém: título, imagem, legenda (figcaption) e fonte.
 
@@ -16,7 +16,7 @@ Parques de Lazer mostra: cidade da criança, parque da juventude e parque das bi
 
 
 
-#Recursos usados no HTML: 
+# Recursos usados no HTML: 
 
 figure → agrupa imagem + legenda. 
 
@@ -31,4 +31,4 @@ id → aplica estilo específico.
 br → cria espaçamento entre os elementos.
 
 
-#Objetivo da página: Criar um site de atrativos turísticos da cidade de São Bernardo do Campo usando: HTML estrutural, CSS externo, o Css W3, imagens e organização em colunas.
+# Objetivo da página: Criar um site de atrativos turísticos da cidade de São Bernardo do Campo usando: HTML estrutural, CSS externo, o Css W3, imagens e organização em colunas.
